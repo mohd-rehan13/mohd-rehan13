@@ -63,8 +63,7 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mohd-rehan13&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub statistics for Mohammad Rehan" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohd-rehan13&layout=compact&langs_count=10&theme=radical&hide_border=true" height="170" alt="Top programming languages" />
+  <img src="./assets/profile-stats.svg" alt="Custom profile statistics" />
 </p>
 
 <p align="center">
