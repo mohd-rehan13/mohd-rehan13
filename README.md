@@ -63,12 +63,12 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohd-rehan13&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="GitHub statistics for Mohammad Rehan" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-rehan13&layout=compact&langs_count=10&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Top programming languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mohd-rehan13&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub statistics for Mohammad Rehan" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohd-rehan13&layout=compact&langs_count=10&theme=radical&hide_border=true" height="170" alt="Top programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohd-rehan13&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=mohd-rehan13&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
