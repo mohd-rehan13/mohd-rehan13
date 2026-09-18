@@ -67,10 +67,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohd-rehan13&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://mohd-rehan13.github.io/mohd-rehan13/github-contribution-grid-snake-dark.svg?palette=github-dark">
     <img src="https://mohd-rehan13.github.io/mohd-rehan13/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
