@@ -1,7 +1,7 @@
 # Hi, I'm Mohammad Rehan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Intern;Security+Enthusiast;Learning+Every+Day;Problem+Solver" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Intern;Security+Enthusiast;Learning+Every+Day" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -63,12 +63,12 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohd-rehan13&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Mohammad Rehan's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-rehan13&layout=compact&theme=radical&hide_border=true" height="170" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohd-rehan13&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="GitHub statistics for Mohammad Rehan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-rehan13&layout=compact&langs_count=10&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Top programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohd-rehan13&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=mohd-rehan13&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
