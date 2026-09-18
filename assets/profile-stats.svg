@@ -1,0 +1,38 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="900" y1="0" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#EF4444"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="18" y="18" width="864" height="184" rx="14" fill="#111827" stroke="#374151"/>
+
+  <text x="38" y="55" fill="#F9FAFB" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Profile Snapshot</text>
+  <rect x="36" y="68" width="110" height="4" rx="2" fill="url(#accent)"/>
+
+  <g>
+    <rect x="44" y="96" width="240" height="66" rx="12" fill="#0F172A" stroke="#374151"/>
+    <text x="60" y="125" fill="#9CA3AF" font-size="13" font-family="Segoe UI, Arial, sans-serif">Total Commits</text>
+    <text x="60" y="150" fill="#F8FAFC" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">148</text>
+  </g>
+
+  <g>
+    <rect x="330" y="96" width="240" height="66" rx="12" fill="#0F172A" stroke="#374151"/>
+    <text x="346" y="125" fill="#9CA3AF" font-size="13" font-family="Segoe UI, Arial, sans-serif">Current Streak</text>
+    <text x="346" y="150" fill="#F8FAFC" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">18 Days</text>
+  </g>
+
+  <g>
+    <rect x="616" y="96" width="240" height="66" rx="12" fill="#0F172A" stroke="#374151"/>
+    <text x="632" y="125" fill="#9CA3AF" font-size="13" font-family="Segoe UI, Arial, sans-serif">Longest Streak</text>
+    <text x="632" y="150" fill="#F8FAFC" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">32 Days</text>
+  </g>
+
+  <text x="38" y="194" fill="#D1D5DB" font-size="12" font-family="Segoe UI, Arial, sans-serif">Cybersecurity • Linux • Web Security • Python</text>
+</svg>
