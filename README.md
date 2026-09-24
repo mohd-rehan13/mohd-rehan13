@@ -62,9 +62,11 @@
 
 ## GitHub Statistics & Live Activity
 
+## GitHub Activity
+
 <p align="center">
   <a href="https://github.com/mohd-rehan13">
-    <img src="./assets/github-activity.svg" alt="Live GitHub activity and contribution statistics" />
+    <img src="./assets/github-activity.svg" alt="GitHub activity showing current streak, longest streak, and total commits" />
   </a>
 </p>
 
@@ -75,13 +77,6 @@
   </picture>
 </p>
 
-## Focused GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/mohd-rehan13">
-    <img src="./assets/github-activity.svg" alt="Focused GitHub activity showing contribution calendar and most-used languages" />
-  </a>
-</p>
 
 ## Let's Connect
 
