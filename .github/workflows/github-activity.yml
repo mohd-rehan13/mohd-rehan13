@@ -9,25 +9,21 @@ permissions:
   contents: write
 
 jobs:
-  metrics:
+  activity-card:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate focused activity SVG
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/github-activity.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: mohd-rehan13
-          template: classic
-          base: header
-          config_timezone: Asia/Kolkata
-          config_display: large
-          config_octicon: true
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_limit: 5
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_threshold: 0%
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate streak and commit card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/generate_activity_card.py
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-activity.svg
+          git diff --cached --quiet || git commit -m "Update GitHub activity card"
+          git push
