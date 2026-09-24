@@ -1,7 +1,7 @@
 # Hi, I'm Mohammad Rehan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Intern;Security+Enthusiast;Learning+Every+Day" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Intern;Security+Enthusiast;Learning+Eve[...]
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="./assets/profile-stats.svg" alt="Custom profile statistics" />
+  <img src="https://raw.githubusercontent.com/mohd-rehan13/mohd-rehan13/main/assets/profile-stats.svg" alt="Custom profile statistics" />
 </p>
 
 <p align="center">
