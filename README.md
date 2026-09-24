@@ -60,16 +60,24 @@
 - Learn security monitoring, incident response, and responsible vulnerability reporting.
 - Build secure, reliable, and privacy-conscious applications.
 
-## GitHub Statistics
+## GitHub Statistics & Live Activity
 
 <p align="center">
-  <img src="./assets/profile-stats.svg" alt="Custom profile statistics" />
+  <a href="https://github.com/mohd-rehan13">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohd-rehan13&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F9FAFB&text_color=D1D5DB&icon_color=DC2626&ring_color=DC2626&cache_seconds=1800" alt="Mohammad Rehan's GitHub statistics" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohd-rehan13">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-rehan13&bg_color=0F172A&color=F9FAFB&line=DC2626&point=F59E0B&area_color=7F1D1D&area=true&hide_border=true&radius=16&custom_title=Real-time%20GitHub%20Activity" alt="Real-time GitHub activity graph" />
+  </a>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://mohd-rehan13.github.io/mohd-rehan13/github-contribution-grid-snake-dark.svg?palette=github-dark">
-    <img src="https://mohd-rehan13.github.io/mohd-rehan13/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+    <img src="https://mohd-rehan13.github.io/mohd-rehan13/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake">
   </picture>
 </p>
 
