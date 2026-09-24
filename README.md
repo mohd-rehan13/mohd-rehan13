@@ -60,14 +60,10 @@
 - Learn security monitoring, incident response, and responsible vulnerability reporting.
 - Build secure, reliable, and privacy-conscious applications.
 
-## GitHub Statistics & Live Activity
-
-## GitHub Activity
+## GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/mohd-rehan13">
-    <img src="./assets/github-activity.svg" alt="GitHub activity showing current streak, longest streak, and total commits" />
-  </a>
+  <img src="./assets/profile-stats.svg" alt="Custom profile statistics" />
 </p>
 
 <p align="center">
@@ -76,7 +72,6 @@
     <img src="https://mohd-rehan13.github.io/mohd-rehan13/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
   </picture>
 </p>
-
 
 ## Let's Connect
 
