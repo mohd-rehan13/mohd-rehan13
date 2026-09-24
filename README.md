@@ -75,6 +75,14 @@
   </picture>
 </p>
 
+## Focused GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/mohd-rehan13">
+    <img src="./assets/github-activity.svg" alt="Focused GitHub activity showing contribution calendar and most-used languages" />
+  </a>
+</p>
+
 ## Let's Connect
 
 <p align="center">
