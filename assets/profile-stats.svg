@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
   <title id="title">Mohammad Rehan profile stats</title>
   <desc id="desc">A custom cybersecurity-themed GitHub profile stats card for Mohammad Rehan.</desc>
-
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#0f172a"/>
@@ -12,29 +11,22 @@
       <stop offset="100%" stop-color="#f59e0b"/>
     </linearGradient>
   </defs>
-
   <rect width="900" height="260" rx="18" fill="url(#bg)"/>
   <rect x="24" y="24" width="852" height="212" rx="16" fill="#111827" stroke="#374151"/>
-
   <text x="52" y="62" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Cybersecurity Learning Journey</text>
   <text x="52" y="88" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="14">Focused on ethical hacking, Linux, network security, and web defense</text>
-
   <rect x="52" y="115" width="230" height="92" rx="12" fill="#0b1220" stroke="#374151"/>
   <rect x="335" y="115" width="230" height="92" rx="12" fill="#0b1220" stroke="#374151"/>
   <rect x="618" y="115" width="230" height="92" rx="12" fill="#0b1220" stroke="#374151"/>
-
   <text x="167" y="150" text-anchor="middle" fill="#93c5fd" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.2">LINUX</text>
   <text x="167" y="182" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Core</text>
-  <text x="167" y="200" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">Command line & systems</text>
-
+  <text x="167" y="200" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">Command line &amp; systems</text>
   <text x="450" y="150" text-anchor="middle" fill="#fbbf24" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.2">WEB SECURITY</text>
   <text x="450" y="182" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">OWASP</text>
-  <text x="450" y="200" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">Attack patterns & defense</text>
-
+  <text x="450" y="200" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">Attack patterns &amp; defense</text>
   <text x="733" y="150" text-anchor="middle" fill="#f9a8d4" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.2">ETHICAL HACKING</text>
   <text x="733" y="182" text-anchor="middle" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700">Hands-on</text>
   <text x="733" y="200" text-anchor="middle" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="12">Practice in safe labs</text>
-
   <rect x="52" y="220" width="210" height="6" rx="3" fill="url(#accent)"/>
   <rect x="345" y="220" width="210" height="6" rx="3" fill="url(#accent)"/>
   <rect x="638" y="220" width="210" height="6" rx="3" fill="url(#accent)"/>
